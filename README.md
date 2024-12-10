@@ -21,6 +21,10 @@ I'm a senior at CUNY Hunter College, majoring in Computer Science with a minor i
 
 I am currently focused on learning new tools and technologies, particularly in the areas of AI, machine learning, and data analytics. As a member of the leadership team in the Women in Computer Science (WiCS) club at Hunter College, I am dedicated to building a community that supports and empowers women in tech.
 
+# 💻 Fall AI Studio Project
+As part of a team, I contributed to a project where we developed [an electricty price forecasting](https://github.com/pginjupalli/Verizon-BTTAI-ElectricityPriceForecasting) to forecast energy prices by state using historical data. Check out the full repository to explore the project and the code!
+
+
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/emily-ann-willix-878874260/)
 - [Email](mailto:emilyannwillix@gmail.com)
