@@ -1,4 +1,4 @@
-# Hi I'm Emily Ann 👋
+# Hi I'm Emily-Ann 👋
 
 <!--
 **emilyannwx/emilyannwx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
