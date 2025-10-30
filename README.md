@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I'm a senior at CUNY Hunter College, majoring in Computer Science with a minor in Psychology. I am passionate about data analysis, machine learning, and creating solutions that make a meaningful impact. I am deeply committed to promoting equity in tech, especially for underrepresented groups, and aspire to help make the tech industry more accessible for all.
-
-I am currently focused on learning new tools and technologies, particularly in the areas of AI, machine learning, and data analytics. As a member of the leadership team in the Women in Computer Science (WiCS) club at Hunter College, I am dedicated to building a community that supports and empowers women in tech.
+I recently graduated from CUNY Hunter College with a B.A. in Computer Science and a minor in Psychology. Lately, I’ve been focusing on building my skills in cybersecurity and IT while continuing to explore my interests in AI, machine learning, and data analytics. I’m passionate about using technology to solve real-world problems and create more equitable opportunities in tech. During my time at Hunter, I served on the leadership team of the Women in Computer Science (WiCS) club, where I helped foster a supportive and inclusive community for women in technology.
 
 ## 💻 Fall AI Studio Project
 Recently, I worked in a team to develop [an electricty price forecasting](https://github.com/pginjupalli/Verizon-BTTAI-ElectricityPriceForecasting) to forecast energy prices by state using historical data. Check out the full repository to explore the project and the code!
