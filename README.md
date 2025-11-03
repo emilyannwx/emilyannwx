@@ -21,7 +21,7 @@ I recently graduated from CUNY Hunter College with a B.A. in Computer Science an
  I’m passionate about problem solving, learning new technologies, and using tech to create more equitable and accessible solutions.
 I’m currently part of the NPower Tech Fundamentals program, where I’m strengthening my skills in IT and cybersecurity. I'm also interested in data analytics and machine learning, and I enjoy hands-on learning (I just built a PC for the first time!)
 
-##🚀 Featured Projects
+## 🚀 Featured Projects
 🧠 [Equitable AI for Dermatology](https://github.com/emilyannwx/vitaminE-Equitable-AI-for-Dermatology)
 
 Developed as part of a Kaggle competition, this project trained a model to classify 21 different skin conditions across diverse skin tones to promote fairness in AI-driven healthcare.
