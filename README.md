@@ -17,11 +17,48 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I recently graduated from CUNY Hunter College with a B.A. in Computer Science and a minor in Psychology. Lately, I’ve been focusing on building my skills in cybersecurity and IT while continuing to explore my interests in AI, machine learning, and data analytics. I’m passionate about using technology to solve real-world problems and create more equitable opportunities in tech. During my time at Hunter, I served on the leadership team of the Women in Computer Science (WiCS) club, where I helped foster a supportive and inclusive community for women in technology.
+I recently graduated from CUNY Hunter College with a B.A. in Computer Science and a minor in Psychology.
+ I’m passionate about problem solving, learning new technologies, and using tech to create more equitable and accessible solutions.
+I’m currently part of the NPower Tech Fundamentals program, where I’m strengthening my skills in IT and cybersecurity. I'm also interested in data analytics and machine learning, and I enjoy hands-on learning (I just built a PC for the first time!)
 
-## 💻 Fall AI Studio Project
-Recently, I worked in a team to develop [an electricty price forecasting](https://github.com/pginjupalli/Verizon-BTTAI-ElectricityPriceForecasting) to forecast energy prices by state using historical data. Check out the full repository to explore the project and the code!
+##🚀 Featured Projects
+🧠 [Equitable AI for Dermatology](https://github.com/emilyannwx/vitaminE-Equitable-AI-for-Dermatology)
 
+Developed as part of a Kaggle competition, this project trained a model to classify 21 different skin conditions across diverse skin tones to promote fairness in AI-driven healthcare.
+
+💬 [CoCa: Employee Sentiment Dashboard](https://devpost.com/software/coca)
+
+An AI-powered sentiment analysis dashboard that helps HR teams identify and address toxic workplace behavior.
+🏆 Winner – ADP Challenge Hack @ Rutgers HackHers 2025 (AI-Powered Employee Sentiment Analysis Track)
+
+
+🔬 [Breast Cancer Diagnosis Predictions](https://github.com/emilyannwx/BreastCancerDiagnosisPredictions)
+
+Used Apache Spark MLlib to predict whether a breast tumor is benign or malignant, demonstrating distributed computing and model evaluation skills.
+
+🧬 [HetioNet Database System](https://github.com/ying2212/HetioNet)
+
+Built a database system to model HetioNet, capturing relationships among biological data types through graph-based data modeling.
+
+
+⚡ [Energy Price Forecasting](https://github.com/pginjupalli/Verizon-BTTAI-ElectricityPriceForecasting) 
+
+Collaborated with a team to forecast electricity prices by state using historical energy market data and time series modeling.
+
+💹 [Predicting Log GDP per Capita](https://github.com/emilyannwx/predictingLogGDP)
+
+Used the World Happiness Report dataset to build a regression model predicting Log GDP per capita, exploring socioeconomic correlations.
+
+🌳 [TreeNYC: An Interactive Dashboard](https://github.com/emilyannwx/tree-census-dashboard)
+
+An interactive data visualization dashboard exploring New York City’s tree population using NYC Open Data. Helps promote environmental awareness and urban sustainability.
+
+
+<!--
+🥗 NYC Food Access App (Capstone Project)
+
+A web app designed to help NYC residents find healthy and affordable food options, addressing food deserts and promoting health equity. (Currently being rehosted)
+-->
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/emily-ann-willix-878874260/)
