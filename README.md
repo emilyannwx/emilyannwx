@@ -40,7 +40,6 @@ Used Apache Spark MLlib to predict whether a breast tumor is benign or malignant
 
 Built a database system to model HetioNet, capturing relationships among biological data types through graph-based data modeling.
 
-
 ⚡ [Energy Price Forecasting](https://github.com/pginjupalli/Verizon-BTTAI-ElectricityPriceForecasting) 
 
 Collaborated with a team to forecast electricity prices by state using historical energy market data and time series modeling.
@@ -53,6 +52,9 @@ Used the World Happiness Report dataset to build a regression model predicting L
 
 An interactive data visualization dashboard exploring New York City’s tree population using NYC Open Data. Helps promote environmental awareness and urban sustainability.
 
+🌍 [Nomadia: Travel Planning Website](https://github.com/emilyannwx/site-capstone)
+
+A website built with React, Node.js, Express, and PostgreSQL that streamlines travel planning by consolidating flights, hotels, and activities into one interface. Includes slides and a user guide for reference
 
 <!--
 🥗 NYC Food Access App (Capstone Project)
