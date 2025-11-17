@@ -22,6 +22,11 @@ I recently graduated from CUNY Hunter College with a B.A. in Computer Science an
 I’m currently part of the NPower Tech Fundamentals program, where I’m strengthening my skills in IT and cybersecurity. I'm also interested in data analytics and machine learning, and I enjoy hands-on learning (I just built a PC for the first time!)
 
 ## 🚀 Featured Projects
+
+🥬 [NYC Fresh Finder](https://github.com/emilyannwx/nycfreshfinder)
+
+A website designed to help NYC residents locate healthy, affordable food. Users can log prices and details of grocery items, explore interactive maps highlighting food deserts, and access community resources. Built with Node.js, PostgreSQL, Python, and Leaflet.js.
+
 🧠 [Equitable AI for Dermatology](https://github.com/emilyannwx/vitaminE-Equitable-AI-for-Dermatology)
 
 Developed as part of a Kaggle competition, this project trained a model to classify 21 different skin conditions across diverse skin tones to promote fairness in AI-driven healthcare.
