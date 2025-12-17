@@ -43,7 +43,7 @@ Used Apache Spark MLlib to predict whether a breast tumor is benign or malignant
 
 Built a database system to model HetioNet, capturing relationships among biological data types through graph-based data modeling.
 
-⚡ [Energy Price Forecasting](https://github.com/pginjupalli/Verizon-BTTAI-ElectricityPriceForecasting) 
+⚡ [Electricity Price Forecasting](https://github.com/pginjupalli/Verizon-BTTAI-ElectricityPriceForecasting) 
 
 Collaborated with a team to forecast electricity prices by state using historical energy market data and time series modeling.
 
