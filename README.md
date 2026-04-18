@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I recently graduated from CUNY Hunter College with a B.A. in Computer Science and a minor in Psychology. I enjoy exploring new technologies, learning by doing, and applying my skills to real-world projects (I even built my own PC recently!). I’m excited to explore a variety of skills, but above all, I love working with others and leveraging data to solve problems and inform decisions.
+I recently graduated from CUNY Hunter College with a B.A. in Computer Science and a minor in Psychology. I’ve always been drawn to solving problems, especially ones that involve people, data, and real-world impact.
+
+I like digging into how things work, identifying what can be improved, and working with others to build better solutions. I’m currently focused on product management and developing the skills to turn ideas into products that actually make a difference.
 
 ## 🚀 Featured Projects
 
