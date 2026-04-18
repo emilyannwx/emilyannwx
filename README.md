@@ -21,6 +21,8 @@ I recently graduated from CUNY Hunter College with a B.A. in Computer Science an
 
 I like digging into how things work, identifying what can be improved, and working with others to build better solutions. I’m currently focused on product management and developing the skills to turn ideas into products that actually make a difference.
 
+Lately I’ve been working on a project that predicts how many items a bakery should produce using historical data. It’s challenging, but really satisfying to figure out.
+
 ## 🚀 Featured Projects
 
 🥬 [NYC Fresh Finder](https://github.com/emilyannwx/nycfreshfinder)
