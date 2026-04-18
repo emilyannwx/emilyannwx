@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I recently graduated from CUNY Hunter College with a B.A. in Computer Science and a minor in Psychology. I enjoy exploring new technologies, learning by doing, and applying my skills to real-world projects (I even built my own PC recently!). I’m currently in the NPower IT Fundamentals program, expanding my technical skills and exploring new areas like cybersecurity. I’m excited to explore a variety of skills, but above all, I love working with others and leveraging data to solve problems and inform decisions.
+I recently graduated from CUNY Hunter College with a B.A. in Computer Science and a minor in Psychology. I enjoy exploring new technologies, learning by doing, and applying my skills to real-world projects (I even built my own PC recently!). I’m excited to explore a variety of skills, but above all, I love working with others and leveraging data to solve problems and inform decisions.
 
 ## 🚀 Featured Projects
 
