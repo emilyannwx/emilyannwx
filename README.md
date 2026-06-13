@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 
 I recently graduated from CUNY Hunter College with a B.A. in Computer Science and a minor in Psychology. I’ve always been drawn to solving problems, especially ones that involve people, data, and real-world impact.
 
-I like digging into how things work, identifying what can be improved, and working with others to build better solutions. I’m currently focused on product management and developing the skills to turn ideas into products that actually make a difference.
+I like digging into how things work, finding ways to improve them, and working with others to bring ideas to life. I'm interested in project management, operations, and product development because they all involve solving problems, staying organized, and helping teams build things that make a difference.
 
-Lately I’ve been working on a project that predicts how many items a bakery should produce using historical data. It’s challenging, but really satisfying to figure out.
-
+Lately, I’ve been working on a project that predicts how many items a bakery should produce using historical data. It’s challenging, but really satisfying to take a problem, break it down, and figure out a practical solution.
 ## 🚀 Featured Projects
 
 🥬 [NYC Fresh Finder](https://github.com/emilyannwx/nycfreshfinder)
