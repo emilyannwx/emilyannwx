@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I recently graduated from CUNY Hunter College with a B.A. in Computer Science and a minor in Psychology. I’ve always been drawn to solving problems, especially ones that involve people, data, and real-world impact.
 
-like digging into data to understand how things work, finding patterns that point to ways to improve them, and working with others to turn those insights into action. I especially love working with data , there's something satisfying about taking a messy pile of numbers and turning it into something that actually helps people make decisions. That's part of why I'm interested in project management, operations, and product development: they all involve solving problems, staying organized, and helping teams build data-informed things that make a difference.
+I like digging into data to understand how things work, finding patterns that point to ways to improve them, and working with others to turn those insights into action. I especially love working with data , there's something satisfying about taking a messy pile of numbers and turning it into something that actually helps people make decisions. That's part of why I'm interested in project management, operations, and product development: they all involve solving problems, staying organized, and helping teams build data-informed things that make a difference.
 
 Lately, I’ve been working on a project that predicts how many items a bakery should produce using historical data. It’s challenging, but really satisfying to take a problem, break it down, and figure out a practical solution.
 ## 🚀 Featured Projects
