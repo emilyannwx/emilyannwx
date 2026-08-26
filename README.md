@@ -32,7 +32,7 @@ A website designed to help NYC residents locate healthy, affordable food. Users 
 
 Developed as part of a Kaggle competition, this project trained a model to classify 21 different skin conditions across diverse skin tones to promote fairness in AI-driven healthcare.
 
-💬 [CoCa: Employee Sentiment Dashboard](https://devpost.com/software/coca)
+💬 [CoCa: Employee Sentiment Dashboard](https://github.com/chloewolo/CoCa)
 
 An AI-powered sentiment analysis dashboard that helps HR teams identify and address toxic workplace behavior.
 🏆 Winner – ADP Challenge Hack @ Rutgers HackHers 2025 (AI-Powered Employee Sentiment Analysis Track)
